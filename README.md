@@ -1,8 +1,18 @@
-# 🛡️ Infosec Resources
+# 📌 Cheat Sheets – Your Technical Memory
 
-Welcome to **Infosec Resources**, a curated collection of tools, datasets, labs, cheat sheets, and learning materials for cybersecurity professionals, students, and enthusiasts.
+> "In the heat of the moment, a good cheat sheet saves more than a thousand searches."
 
-Whether you're just starting in cybersecurity or looking to deepen your knowledge, this repository aims to provide practical and accessible resources in one place.
+This section provides quick-reference guides to commands, procedures, shortcuts, and common techniques. Perfect for both study and real-world testing.
+
+## 🔍 You will learn to:
+
+- Quickly find Linux, Nmap, Metasploit, SQLi commands, and more
+- Memorize common payload structures
+- Use OWASP references for secure coding
+- Build and maintain your own cheat sheets
+
+🧠 **Goal:** Maximize technical efficiency and reduce errors.
+
 
 ---
 
