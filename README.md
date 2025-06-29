@@ -7,9 +7,9 @@ Whether you're just starting in cybersecurity or looking to deepen your knowledg
 ---
 
 infosec-resources/
- cheat-sheets/
-ctf-practice/
-datasets/
-labs/
- learning-paths/
- tools/
+├── cheat-sheets/
+├── ctf-practice/
+├── datasets/
+├── labs/
+├── learning-paths/
+└── tools/
